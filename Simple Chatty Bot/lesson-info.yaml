@@ -1,0 +1,16 @@
+type: framework
+content:
+<<<<<<< HEAD
+- Hello! What’s your name?
+- How old are you?
+- Let’s count_
+- The student and the teacher
+current_task: 3
+=======
+- Chatty Bot welcomes you
+- Print your name
+- Guess the age
+- Learning numbers
+- Multiple choice
+current_task: 4
+>>>>>>> c248773 (update commit)
